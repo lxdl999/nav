@@ -29,13 +29,50 @@
       logo:  
       url: https://translate.google.com/
       description: Google翻译
-    
+      
+    - title: 三米影视
+      logo:  
+      url: https://www.lyzhibang.com/
+      description: 三米影视
     
 
-- taxonomy: AI社区
+- taxonomy: 品瑞采购网站
   icon: fa-regular fa-newspaper
   links: 
-    - title: Gemini
+    - title: 喜宝
+      logo: 
+      url: https://www.1t3.com/
+      description: 1T3平台
+      
+    - title: 冰宇
+      logo: 
+      url: https://www.91t.com/
+      description: 91t.com
+      
+    - title: 服装库房
+      logo: 
+      url: https://fuzhuangkufang.com/index
+      description: 
+      
+    - title: 奢造链
+      logo: 
+      url: http://www.luxuryt.net/home/
+      description: AG服装
+      
+    - title: 时都
+      logo: 
+      url: https://www.m8.cn/
+      description: 
+      
+   
+    
+
+- taxonomy: 网络工具
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: AI和VPN
+      links:
+        - title: Gemini
       logo: 
       url: https://gemini.google.com/app
       description: Google Gemini
@@ -45,96 +82,51 @@
       url: https://aistudio.google.com/app/prompts
       description: Google Aistudio
       
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
-    
-
-- taxonomy: 灵感采集
-  icon: fa-regular fa-lightbulb
-  list: 
-    - term: 发现产品
-      links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+    - title: ChatGPT
+      logo: 
+      url: https://chat.openai.com/
+      description: 聊天 ChatGPT
       
-    - term: 界面灵感
+    - title: cloudflare
+      logo: 
+      url: https://www.cloudflare.com
+      description: VPN代理
+      
+    - title: Github
+      logo: 
+      url: https://github.com/
+      description: github.com
+      - title: yui科技
+          logo: 
+          url: https://yuivv.blogspot.com/
+          description: 免费机场，每日更新
+    - title: l53.net
+      logo: 
+      url: https://customer.l53.net/support/kb/policy/privacy-policy
+      description: 我的二级域名
+      
+    - term: 在线工具
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: TEMPMAIL
+          logo: 
+          url: https://temp-mail.org/zh/
+          description: 临时邮箱
+        - title: MAC青桔网
+          logo: 
+          url: https://www.macqj.com/
+          description: MAC软件资源平台
+        - title: aies.cn
+          logo: 
+          url: https://www.aies.cn/
+          description: 在线简繁体转换
+        - title: fococlipping
+          logo: 
+          url: https://www.fococlipping.com/
+          description: 在线删除图片背景
+        - title: watermarkremover
+          logo: 
+          url: https://www.watermarkremover.io/zh
+          description: 图片水印去除工具
       
     - term: 网页灵感
       links:
