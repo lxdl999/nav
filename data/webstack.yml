@@ -12,23 +12,23 @@
       logo:  
       url: https://www.ixigua.com//
       description: 
-    - title: 环球巴士
+    - title: 京东
       qrcode: 
-      logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
-      description: 流媒体影音账号合租平
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 支付宝、微信充值，海外消费。
-    - title: 美国虚拟卡
-      qrcode: images/qrcodes/usdt.png
+      logo: 
+      url: https://www.jd.com/
+      description: 京东购物平台
+    - title: 谷歌邮箱
+      url: https://mail.google.com/mail/
+      description: 我的谷歌邮箱
+    - title: 谷歌地图
+      qrcode: 
       logo:
-      url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
-      description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 礼品卡/兑换码
-      logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
+      url: https://www.google.com/maps
+      description: Google地图
+    - title: 谷歌翻译
+      logo:  
+      url: https://translate.google.com/
+      description: Google翻译
     - title: Telegram
       logo: 
       url: https://t.me/kjgxZY/
