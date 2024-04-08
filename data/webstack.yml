@@ -37,27 +37,27 @@
 - taxonomy: 品瑞采购网站
   icon: fa-regular fa-newspaper
   links: 
-     - title: 喜宝
-      logo: 
-      url: https://www.1t3.com/
-      description: 1T3平台
+    - title: 喜宝
+    logo: 
+    url: https://www.1t3.com/
+    description: 1T3平台
       
-     - title: 冰宇
+    - title: 冰宇
       logo: 
       url: https://www.91t.com/
       description: 91t.com
       
-     - title: 服装库房
+    - title: 服装库房
       logo: 
       url: https://fuzhuangkufang.com/index
       description: 
       
-     - title: 奢造链
+    - title: 奢造链
       logo: 
       url: http://www.luxuryt.net/home/
       description: AG服装
       
-     - title: 时都
+    - title: 时都
       logo: 
       url: https://www.m8.cn/
       description: 
