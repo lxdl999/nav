@@ -32,17 +32,19 @@
     
     
 
-- taxonomy: 社区咨询
+- taxonomy: AI社区
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
+    - title: Gemini
+      logo: 
+      url: https://gemini.google.com/app
+      description: Google Gemini
+      
+    - title: Aistudio
+      logo: 
+      url: https://aistudio.google.com/app/prompts
+      description: Google Aistudio
+      
     - title: 数英网
       logo: images/logos/digitaling.png
       url: https://www.digitaling.com/
