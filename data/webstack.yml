@@ -34,6 +34,14 @@
       logo:  
       url: https://www.lyzhibang.com/
       description: 三米影视
+    - title: 懂车帝
+      logo:  
+      url: https://www.dongchedi.com/
+      description: 
+    - title: 汽车之家
+      logo:  
+      url: https://www.autohome.com.cn/
+      description: 
 - taxonomy: 品瑞采购网站
   icon: fa-regular fa-newspaper
   links: 
