@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: NOTION
+      logo: 
+      url: https://www.notion.so
+      description: 我的工作台
     - title: YouTube
       logo: 
       url: https://www.youtube.com/
