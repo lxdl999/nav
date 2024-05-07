@@ -95,7 +95,10 @@
           logo: 
           url: https://chat.openai.com/
           description: 聊天 ChatGPT
-      
+        - title: Coze
+          logo: 
+          url: https://www.coze.com/
+          description: 聊天 ChatGPT-4
         - title: cloudflare
           logo: 
           url: https://www.cloudflare.com
