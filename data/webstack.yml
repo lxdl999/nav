@@ -96,7 +96,10 @@
           logo: 
           url: https://www.cloudflare.com
           description: VPN代理
-      
+        - title: BPB面板
+          logo: 
+          url: https://dyjd-3ab.pages.dev/panel
+          description: cloudfare节点生成
         - title: Github
           logo: 
           url: https://github.com/
