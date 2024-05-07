@@ -77,6 +77,10 @@
   list: 
     - term: AI和VPN
       links:
+        - title: IP地址查询
+          logo: 
+          url: https://ip.gs/
+          description: 
         - title: Gemini
           logo: 
           url: https://gemini.google.com/app
