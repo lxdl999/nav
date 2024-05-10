@@ -85,6 +85,10 @@
           logo: 
           url: https://ttsmaker.cn/
           description: 文字转语音国内
+        - title: viggle.ai
+          logo: 
+          url: https://www.viggle.ai/
+          description: 可控视频生成
           
     - term: AI和VPN
       links:
