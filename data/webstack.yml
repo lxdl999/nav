@@ -75,6 +75,17 @@
 - taxonomy: 网络工具
   icon: fa-regular fa-lightbulb
   list: 
+   - term: 视频制作
+     links:
+       - title: TTSMAKER
+         logo: 
+         url: https://ttsmaker.com/zh-cn
+         description: 文字转语音合成
+
+        - title: TTSMAKER
+          logo: 
+          url: https://ttsmaker.cn/
+          description: 文字转语音合成国内版
     - term: AI和VPN
       links:
         - title: IP地址查询
