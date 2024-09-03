@@ -2,14 +2,7 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: 百度
-      logo: 
-      url: https://www.baidu.com/
-      description: 百度一下
-    - title: 谷歌
-      logo: 
-      url: https://www.google.com/
-      description: 谷歌搜索
+
     - title: NOTION
       logo: 
       url: https://www.notion.so/
