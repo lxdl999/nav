@@ -6,8 +6,6 @@ theme = "hugo-webstack"
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
-#页脚：作者名字
-copyright = "nav"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
@@ -31,7 +29,7 @@ copyright = "nav"
   
 #桌面端右上角code按钮
 [params.github]
-  enable = true #true显示 false隐藏
+  enable = false #true显示 false隐藏
   url = "https://github.com/lxdh999/nav"
   
 [permalinks]  
