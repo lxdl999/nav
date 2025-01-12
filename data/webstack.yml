@@ -4,14 +4,12 @@
   icon: fa-star
   links: 
     - title: youtube
-      logo: 
       url: https://www.youtube.com/
       description: 
     - title: 西瓜视频
       url: https://www.ixigua.com/
       description: 
     - title: chatgpt
-      logo: 
       url: https://chatgpt.com/
       description: 
     - title: gemini
@@ -21,11 +19,9 @@
       url: https://x.com/home
       description: 
     - title: 谷歌搜索
-      logo:
       url: https://www.google.com/
       description: 
     - title: NOTION导航
-      logo: 
       url: https://ethereal-rambutan-2e9.notion.site/16ac15a6553c40b1b6a1c2a66be161b8
       description: 
     - title: 我的导航
